@@ -91,17 +91,27 @@ Módulos.
   
   https://github.com/jldazai/ejemplos-Python/blob/master/ejercicio15.py
   
+  https://github.com/jldazai/ejemplos-Python/blob/master/aritmetica.py
+  
   84.Crear un módulo que maneje funciones para operar en sistema octal, las operaciones que se deben implementar son suma, resta, multiplicación y división.
   
   https://github.com/jldazai/ejemplos-Python/blob/master/ejercicio16.py
   
+  https://github.com/jldazai/ejemplos-Python/blob/master/aritmeticaOct.py
+  
 Archivos.
   86.Escribir un programa que escriba la lista de caracteres ASCII dentro de un archivo de texto.
+  
   87.Escribir un programa que lea y muestre en pantalla el archivo generado en el ejercicio anterio.
 
 Ejercicios varios.
+
   91.Modifique el ejercicio anterior para que el noteo se haga hacia atrás desde el tiempo leído hasta cero.
+  
+  https://github.com/jldazai/ejemplos-Python/blob/master/ejercicio19.py
+  
   92.Escribir un programa que ejemplifique los diferentes métodos de ordenamiento de arreglos, para este caso deben crear como mínimo las siguientes funciones.
+  
     *Función que llene el arreglo co números enteros aleatorios.
     *Función que crea una copia del arreglo original.
     *Función de ordenar por burbuja.
