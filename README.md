@@ -102,7 +102,12 @@ Módulos.
 Archivos.
   86.Escribir un programa que escriba la lista de caracteres ASCII dentro de un archivo de texto.
   
+  https://github.com/jldazai/ejemplos-Python/blob/master/ejercicio17.py
+  
+  
   87.Escribir un programa que lea y muestre en pantalla el archivo generado en el ejercicio anterio.
+  
+  https://github.com/jldazai/ejemplos-Python/blob/master/ejercicio18.py
 
 Ejercicios varios.
 
@@ -119,3 +124,5 @@ Ejercicios varios.
     *Función de ordenar por inserción.
     *Funcion de ordenar por quick sort.
     *Función que muestra en pantalla un menú de operaciones para el usuario.
+    
+  https://github.com/jldazai/ejemplos-Python/blob/master/ejercicio20.py
